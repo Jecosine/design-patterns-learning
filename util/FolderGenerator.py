@@ -1,7 +1,7 @@
 '''
 Author: Jecosine
 Date: 2021-01-22 03:35:46
-LastEditTime: 2021-01-22 05:43:27
+LastEditTime: 2021-01-22 06:11:59
 LastEditors: Jecosine
 Description: Folder structure generator
 '''
@@ -9,50 +9,74 @@ Description: Folder structure generator
 import os
 import json
 import copy
+import sys
 
 # folder structure dict
 # has only one key: root
-FOLDER_STRUCTURE = {'name': None, 'children': [{'name': 'Creational', 'children': [{'name': 'AbstractFactory', 'children': []}, {'name': 'Builder', 'children': []}, {'name': 'FactoryMethod', 'children':
-                                                                                                                                                                      []}, {'name': 'Prototype', 'children': []}, {'name': 'Singleton', 'children': []}]}, {'name': 'Structural', 'children': [{'name': 'AdapterBridge', 'children': []}, {'name': 'Composite', 'children': []}, {'name': 'Decorator', 'children': []}, {'name': 'Facade', 'children': []}, {'name': 'Flyweight', 'children': []}, {'name': 'Proxy', 'children': []}]}, {'name': 'Behavioral', 'children': [{'name': 'ResponsibilityChain', 'children': []}, {'name': 'Command', 'children': []}, {'name': 'Interpreter', 'children': []}, {'name': 'Iterator', 'children': []}, {'name': 'Mediator', 'children': []}, {'name': 'Memento', 'children': []}, {'name': 'Observer', 'children': []}, {'name': 'State', 'children': []}, {'name': 'Strategy', 'children':
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      []}, {'name': 'TemplateMethod', 'children': []}, {'name': 'Visitor', 'children': []}]}]}
-s = """- Creational
-  - AbstractFactory  
-  - Builder
-  - FactoryMethod  
-  - Prototype
-  - Singleton
-- Structural
-  - AdapterBridge
-  - Composite
-  - Decorator
-  - Facade
-  - Flyweight
-  - Proxy
-- Behavioral
-  - ResponsibilityChain
-  - Command
-  - Interpreter
-  - Iterator
-  - Mediator
-  - Memento
-  - Observer  
-  - State
-  - Strategy
-  - TemplateMethod
-  - Visitor"""
+FOLDER_STRUCTURE = {
+    'name': None, 
+    'children': [
+        {
+            'name': 'Creational', 
+            'children': [
+                {'name': 'AbstractFactory', 'children': []}, 
+                {'name': 'Builder', 'children': []}, 
+                {'name': 'FactoryMethod', 'children':[]},
+                {'name': 'Prototype', 'children': []}, 
+                {'name': 'Singleton', 'children': []}
+            ]
+        }, 
+        {
+            'name': 'Structural', 
+            'children': [
+                {'name': 'AdapterBridge', 'children': []}, 
+                {'name': 'Composite', 'children': []},
+                {'name': 'Decorator', 'children': []}, 
+                {'name': 'Facade', 'children': []}, 
+                {'name': 'Flyweight', 'children': []}, 
+                {'name': 'Proxy', 'children': []}
+            ]
+        }, 
+        {
+            'name': 'Behavioral', 
+            'children': [
+                {'name': 'ResponsibilityChain', 'children': []}, 
+                {'name': 'Command', 'children': []},
+                {'name': 'Interpreter', 'children': []}, 
+                {'name': 'Iterator', 'children': []}, 
+                {'name': 'Mediator', 'children': []}, 
+                {'name': 'Memento', 'children': []}, 
+                {'name': 'Observer', 'children': []}, 
+                {'name': 'State', 'children': []}, 
+                {'name': 'Strategy', 'children':[]}, 
+                {'name': 'TemplateMethod', 'children': []}, 
+                {'name': 'Visitor', 'children': []}
+            ]
+        }
+    ]
+}
 
-l = s.split("\n")
-template = {"name": None, "children": []}
-root = copy.deepcopy(template)
-parent = root
-current = []
-for i in l:
-    parent["children"] = current
-    x = copy.deepcopy(template)
-    x["name"] = i.strip().split("-")[-1].strip()
-    if i[0] == " ":
-        current.append(x)
+def main():
+    if len(sys.argv) > 1:
+        path = sys.argv[1]
     else:
-        root["children"].append(x)
-        parent = x
-        current = []
+        print("[Usage] python FolderGenerator.py <your-language-name>. \n\t e.g.\npython FolderGenerator.py C")
+    if os.path.exists(path):
+        os.chdir(path)
+    else:
+        os.mkdir(path)
+    print("Make dir {}".format(path))
+    os.chdir(path)
+    make_subdir(FOLDER_STRUCTURE)
+    
+def make_subdir(d):
+    for i in d["children"]:
+        if i["name"]:
+            os.mkdir(i["name"])
+            os.chdir(i["name"])
+        make_subdir(i)
+        if i["name"]:
+            os.chdir("..")
+if __name__ == "__main__":
+    main()
+# make_subdir(FOLDER_STRUCTURE)
