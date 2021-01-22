@@ -7,31 +7,31 @@
 本仓库计划包含学习设计模式过程中使用的各种语言实现  
 列出预计实现的设计模式
 
-- Creational
+- [Creational](doc/Creational.md)
   - [Abstract Factory](doc/abstract-factory.md)  
-  - [Builder](doc/builder.md)
-  - [Factory Method](doc/factory-method.md)  
-  - [Prototype](doc/prototype.md)
-  - Singleton
-- Structural
-  - Adapter Bridge
-  - Composite
-  - Decorator
-  - Facade
-  - Flyweight
-  - Proxy
-- Behavioral
-  - Chain of Responsibility
-  - Command
-  - Interpreter
-  - Iterator
-  - Mediator
-  - Memento
-  - Observer  
-  - State
-  - Strategy
-  - Template Method
-  - Visitor
+  - [Builder](doc/Builder.md)
+  - [Factory Method](doc/FactoryMethod.md)  
+  - [Prototype](doc/Prototype.md)
+  - [Singleton](doc/Singleton.md)
+- [Structural](doc/Structural.md)
+  - [Adapter Bridge](doc/AdapterBridge.md)
+  - [Composite](doc/Composite.md)
+  - [Decorator](doc/Decorator.md)
+  - [Facade](doc/Facade.md)
+  - [Flyweight](doc/Flyweight.md)
+  - [Proxy](doc/Proxy.md)
+- [Behavioral](doc/Behavioral.md)
+  - [Chain of Responsibility](doc/ResponsibilityChain.md)
+  - [Command](doc/Command.md)
+  - [Interpreter](doc/Interpreter.md)
+  - [Iterator](doc/Iterator.md)
+  - [Mediator](doc/Mediator.md)
+  - [Memento](doc/Memento.md)
+  - [Observer](doc/Observer.md)
+  - [State](doc/State.md)
+  - [Strategy](doc/Strategy.md)
+  - [Template Method](doc/TemplateMethod.md)
+  - [Visitor](doc/Visitor.md)
 
 ### Language
 
