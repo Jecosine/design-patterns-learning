@@ -1,7 +1,5 @@
 # Design Patterns Learning 
 
-
-
 ## Description
 
 本仓库计划包含学习设计模式过程中使用的各种语言实现  
