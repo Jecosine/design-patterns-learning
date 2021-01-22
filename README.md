@@ -93,5 +93,5 @@ Make dir Your-Language
 
 ## Reference
 
-[1] *Design Patterns Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides*
+[1] *Design Patterns Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides*  
 [2] *设计模式之禅 秦小波*
