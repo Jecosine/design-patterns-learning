@@ -8,10 +8,10 @@
 列出预计实现的设计模式
 
 - Creational
-  - Abstract Factory  
-  - Builder
-  - Factory Method  
-  - Prototype
+  - [Abstract Factory](doc/abstract-factory.md)  
+  - [Builder](doc/builder.md)
+  - [Factory Method](doc/factory-method.md)  
+  - [Prototype](doc/prototype.md)
   - Singleton
 - Structural
   - Adapter Bridge
@@ -53,7 +53,7 @@
 
 文件夹分级如下
 
-<pre style="line-height: 0.8rem">
+<pre style="font-family: 'FiraCode NF'; font-variant-ligatures: common-ligatures iscretionary-ligatures historical-ligatures;">
 Your-Language
 ├─Behavioral
 │  ├─Command
@@ -82,5 +82,16 @@ Your-Language
     └─Proxy
 </pre>
 
+手动创建这些文件夹会占用很多时间,所以可以使用 `util`下的脚本 `FolderGenerator.py` 创建具备上述结构的文件夹.首先确保自己在项目根目录下
+```bash
+> pwd
+/your-path/design-patterns-learning
 
+> python util/FolderGenerator.py Your-Language
+Make dir Your-Language
+```
 
+## Reference
+
+[1] *Design Patterns Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides*
+[2] *设计模式之禅 秦小波*
