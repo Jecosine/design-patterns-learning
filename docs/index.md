@@ -1,14 +1,14 @@
 <!--
  * @Author: Jecosine
  * @Date: 2021-01-22 06:39:48
- * @LastEditTime: 2021-01-22 11:33:43
+ * @LastEditTime: 2021-01-22 12:05:10
  * @LastEditors: Jecosine
  * @Description: index
 -->
 
 # Index
 
-## What is design patterns
+## What are design patterns
 
 ### Four Essential Elements
 
