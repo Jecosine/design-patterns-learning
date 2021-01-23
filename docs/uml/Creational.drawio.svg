@@ -1,0 +1,156 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="251px" height="664px" viewBox="-0.5 -0.5 251 664" content="&lt;mxfile host=&quot;b22dc2c8-ff41-459e-ada8-83c807ddf307&quot; modified=&quot;2021-01-23T23:26:48.324Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.52.1 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36&quot; version=&quot;13.10.0&quot; etag=&quot;XkrIRszhpvzV4oRzpGaA&quot; type=&quot;embed&quot;&gt;&lt;diagram id=&quot;tmNmrSpTCL3N-vYfYXAC&quot; name=&quot;Page-1&quot;&gt;7VlZb9s4EP41BrIPWViS7caPPpJtARcN6gX2mZZoiQ0lain66q/fGR6WdThVnKYpFgaCQPw4HM7NId0LZun+L0ny5LOIKO/5/WjfC+Y937/zBvAfgYMBht7IALFkkYG8Eliy79SCfYtuWESLCqESgiuWV8FQZBkNVQUjUopdlWwteHXXnMS0ASxDwpvoPyxSiVVr2C/xj5TFidvZ69uZlDhiCxQJicTuBArue8FMCqHMV7qfUY62c3Yx6x7OzB4FkzRTnRYEZsWW8I1VzgqmDk5bGoHydiikSkQsMsLvS3QqxSaLKLLsw6ikWQiRA+gB+I0qdbCeJBslAEpUyu0szaIJ+gV3yGlmkAfGuWUZkSLR/JHYCIhSnVXaQoXYyNBSWb0UkTG1VOOjwSFQqUipkgcgkZQTxbZV7sSGTHykK60KH9aw7Ub2GzaerAolSai+5FQSJWTD5sWOpZxkaNy1yJQzP6pPOIvBQvMQtKUSgC2VikFwTuyEQqNPw4TxaEEOYoPaFoqET240TYRk34EtcfaHaamsd/xRhWKJK60bJC2A5tEZ2qtBn8m+QrgghbJAKDgnecFWRzVScATLpkIpkVoiayZQh+6fd23TaXbBB5tXtrAELs92ZZr6Lk2T0xQd98/72e72FUoJyWLQ4CXbeUHLdv6ouhvh4MqMKDrFTCoawXVUtFO8teU0GLfP6RbqcDBBUjAnChF4xvA4veICPX1uOhTozbOzG4k+Wj7ppEUq81mnKxBdMMdKf/kjjlHpFsRKU9el26zX7eumMFMuqyUShJLSAS7FE50JDrkWzDNhMgv2q0EuuThdq7OpVeQkZFm80DTzQYl8tR5GSMDaNdclLWFRpIuaFIooYnIANcsFmFKHwHAKfxAos/6fw94QBJ/B2CvH8IfkUs1EhqWD6XSgkGA7WqiuueO3586hGpQ/ypXx4PUlcfDjY4cz7RHjOXfMehe5LQUH6IPK+ulvfSzdeg1fBk1fBi1+42RF+aMomGIC+UtDW/PnL3CZ17W+3b3eZcMzVYXYswz7OZpzcbjRlgHDQBDrYvGHydmtAFb1tD5ZLUEiStRNR/JI6IJRJb9m/+WhdNctlEb+62Ppwzs3mfaoq3WZlzWWo2ZjecbSnRtLvRRkJYcTAhsuJedHoQ9i14t4w1oz4tVa/5fRw4eR4NIuZNRSL8yBnVdcP/p3g7cd2xCaZO7ne/ivXdI3+K1OPpwbnMxhft/arMU52xMfeZ50E3pndgKQFLOZN0efkMeagH8dXF1S4QhWYPVdVrKBOODTlBT0y+ob3kpLDqs6PWB5HUskms3dhZ2G3nllLzKzKX1HOzd5I21iXQEVjqjnZH47EYgy95KGGKfGn+ozaU0zzNV3FhivRHDN+h1EMbZb5hSraSdZfqPYi8REi19rE1p9L2lIod7OSUpierNUEk5p05VojVs4VJWvnVHt/UCtaTg5+df6aDEXeGM7z7fjB5IyjoX3I+VbilyrZ9XPvwq3tope21V49MxVuOsBP24U/+tTx9s+dQzHHa8C/6unDhfA17eO622nmjxnHnff4a3D81pi9PrY8WKf/crHDq/5Zu/ayRc/cXR517g+ZvzkUHm7xwwYlr/PmSOr/JEzuP8P&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-4-231-242-94-0">
+            <rect x="4" y="231" width="242" height="94"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-333-242-62-0">
+            <rect x="4" y="333" width="242" height="62"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-501-242-94-0">
+            <rect x="4" y="501" width="242" height="94"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-603-242-62-0">
+            <rect x="4" y="603" width="242" height="62"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 125 390 L 125 467.76" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+        <path d="M 121.5 461.88 L 125 468.88 L 128.5 461.88" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 226 L 0 200 L 250 200 L 250 226" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 226 L 0 390 L 250 390 L 250 226" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 226 L 250 226" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="124.5" y="217.5">
+                AbstractOperator
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-231-242-94-0)" font-size="12px">
+            <text x="5.5" y="243.5">
+                + level: int
+            </text>
+            <text x="5.5" y="257.5">
+                + block: int
+            </text>
+            <text x="5.5" y="271.5">
+                + cost: int
+            </text>
+            <text x="5.5" y="285.5">
+                + currentSkill: Skill
+            </text>
+            <text x="5.5" y="299.5">
+                + skillList: List&lt;Skill&gt;
+            </text>
+            <text x="5.5" y="313.5">
+                + buffList: List&lt;Buff&gt;
+            </text>
+        </g>
+        <path d="M 0 324 L 250 324" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-333-242-62-0)" font-size="12px">
+            <text x="5.5" y="345.5">
+                + abstract deploy(Positon, int): void
+            </text>
+            <text x="5.5" y="359.5">
+                + abstract retreat(): void
+            </text>
+            <text x="5.5" y="373.5">
+                + abstract doSkill(): void
+            </text>
+        </g>
+        <path d="M 80 160 L 80 190 L 80 191.88" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 80 198.88 L 76.5 191.88 L 83.5 191.88 Z" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="0" y="0" width="210" height="160" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 212px; height: 160px; padding-top: 0px; margin-left: 0px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; width: 212px; height: 160px; overflow: hidden; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; width: 100%; height: 100%; white-space: nowrap; ">
+                                <p style="margin: 0px ; margin-top: 4px ; text-align: center">
+                                    <i>
+                                        &lt;&lt;Interface&gt;&gt;
+                                    </i>
+                                    <br/>
+                                    <b>
+                                        IBaseObject
+                                    </b>
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    + hp: float
+                                </p>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    + attack: float
+                                    <br/>
+                                    + defence: float
+                                </p>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    + resistance: float
+                                </p>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    + attackSpeed: float
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    + doAttack(): void
+                                    <br/>
+                                    + receiveDamage(String, float): void
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="0" y="12" fill="#000000" font-family="Helvetica" font-size="12px">
+                    &lt;&lt;Interface&gt;&gt;...
+                </text>
+            </switch>
+        </g>
+        <path d="M 0 496 L 0 470 L 250 470 L 250 496" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 496 L 0 660 L 250 660 L 250 496" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 496 L 250 496" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="124.5" y="487.5">
+                Operator
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-501-242-94-0)" font-size="12px">
+            <text x="5.5" y="513.5">
+                + level: int
+            </text>
+            <text x="5.5" y="527.5">
+                + block: int
+            </text>
+            <text x="5.5" y="541.5">
+                + cost: int
+            </text>
+            <text x="5.5" y="555.5">
+                + currentSkill: Skill
+            </text>
+            <text x="5.5" y="569.5">
+                + skillList: List&lt;Skill&gt;
+            </text>
+            <text x="5.5" y="583.5">
+                + buffList: List&lt;Buff&gt;
+            </text>
+        </g>
+        <path d="M 0 594 L 250 594" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-603-242-62-0)" font-size="12px">
+            <text x="5.5" y="615.5">
+                + deploy(Positon, int): void
+            </text>
+            <text x="5.5" y="629.5">
+                + retreat(): void
+            </text>
+            <text x="5.5" y="643.5">
+                + doSkill(): void
+            </text>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://desk.draw.io/support/solutions/articles/16000042487" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
