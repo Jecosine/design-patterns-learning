@@ -1,4 +1,4 @@
-# Singleton Pattern
+# Singleton
 
 ## Description
 <div id="description"></div>
@@ -8,6 +8,8 @@ Ensure a class has only one instance, and provide a global point of access to it
 
 - 确保在一个应用中只产生一个实例
 - 这个实例时自己进行实例化的
+
+![image-20210124042119325](E:\Programs\design-patterns-learning\docs\img\image-20210124042119325.png)
 
 下面的`java`例子展示了基本的逻辑, 但是它是一个**未考虑线程安全**的例子
 ```java
@@ -68,6 +70,3 @@ public class Singleton {
 ### Thread Security
 
 线程安全性, 在多线程的情况下是否适用
-
-### Java
-

@@ -1,0 +1,36 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="181px" height="104px" viewBox="-0.5 -0.5 181 104" content="&lt;mxfile host=&quot;035af5a6-16b8-46cb-a000-9b9f38a89f2c&quot; modified=&quot;2021-01-23T20:21:03.861Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.52.1 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36&quot; version=&quot;13.10.0&quot; etag=&quot;BxWBMjE_b6HQmxBUvxuh&quot; type=&quot;embed&quot;&gt;&lt;diagram id=&quot;hb_g7RwfKy6A7DZROJim&quot; name=&quot;Page-1&quot;&gt;7ZZvb5swEMY/DdL2ohN/kip72ZBuq5RWVVNpr6/ggFXjQ+bSJP30O4MJUJK221RpL0ZQhB+fbXzP7wAviovddwNlfo2pUF7opzsvWnhhOIl8/rfCvhHCYNIImZFpI/mdsJLPohGDVt3IVFROayRCVCTLoZig1iKhgQbG4HYYtkaVDoQSMjESVgmosfpTppQ36mzqd/oPIbO8XTnwXc8DJI+ZwY1263lhtK6PpruAdi4XX+WQ4rYnRZdeFBtEaq6KXSyUTe0wbd9O9B7u2whN7xkQNgOeQG3c1ldSZ0oQaneDtG+TUm1loUBza75GTSvXE3AblMw0Xye8rDAsPAlDkvN54ToIS1aTXKp0CXvc2JuriJPVtuY5GvnM04Jyc3K3IYdGeD6IWNmRLPusGlFxzG274+CFdA27QeASKnJCgkpBWcmHwzYKMJnUcyTCwgWtpVIxKuRNLTTWm6/I4KNoRXa4OVxaenp4aX+suyRzTsTupFHBwX6uKoGFILPnEDcgmjhi2opqS2zb8RnMnJb32WzRBFcT2WHuw3J3XENgbf+99b4eWY6dGqwGioHQQGJui6Lqw8gXvZ12Uo3ocVyjEa5n3Ly6Wd1f3MQ84oJbpwHm7NNxS1t+lVjTSXqrEhKee1nHLCadcue2byXksWtVl3Qu01RoSx4SEDSYWaZKlJrq/EznfHIWY//L1JvyPcbcDro2nzbcMFWasQNZwyKY4a2wHH8Ui+FxFvdDj99C7yULffIGELzi+GTk+MhWJXtl2T6ugz8yumDLlOicvbfGL86CkfvR2P3oiNMKHoS6xUqSRDu/aWJfEPBPmjwN32fy7O89nh6t6kMdf/pcFzbDFAV+vbl5DQCwdfZbQdAV5w10Ilzk/0fAh9Nx/s63z+SVl88JPLjZff8074juGzO6/AU=&lt;/diagram&gt;&lt;/mxfile&gt;" style="background-color: rgb(255, 255, 255);">
+    <defs>
+        <clipPath id="mx-clip-4-31-172-26-0">
+            <rect x="4" y="31" width="172" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-65-172-40-0">
+            <rect x="4" y="65" width="172" height="40"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 0 26 L 0 0 L 180 0 L 180 26" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 26 L 0 100 L 180 100 L 180 26" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 26 L 180 26" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#2E2E2E" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="89.5" y="17.5">
+                Singleton
+            </text>
+        </g>
+        <rect x="0" y="26" width="180" height="26" fill="none" stroke="#333333" pointer-events="none"/>
+        <g fill="#2E2E2E" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-31-172-26-0)" font-size="12px">
+            <text x="5.5" y="43.5">
+                - INSTANCE: Singleton
+            </text>
+        </g>
+        <path d="M 0 56 L 180 56" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="0" y="60" width="180" height="40" fill="none" stroke="#333333" pointer-events="none"/>
+        <g fill="#2E2E2E" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-65-172-40-0)" font-size="12px">
+            <text x="5.5" y="77.5">
+                - Singleton():
+            </text>
+            <text x="5.5" y="91.5">
+                + static getInstance(): Singleton
+            </text>
+        </g>
+    </g>
+</svg>
