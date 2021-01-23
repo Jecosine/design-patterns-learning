@@ -1,7 +1,7 @@
 '''
 Author: Jecosine
 Date: 2021-01-22 03:35:46
-LastEditTime: 2021-01-22 11:20:54
+LastEditTime: 2021-01-24 04:27:02
 LastEditors: Jecosine
 Description: Folder structure generator
 '''
@@ -74,10 +74,10 @@ def make_subdir(d):
         if i["name"]:
             os.mkdir(i["name"])
             os.chdir(i["name"])
-            # mdfile = os.path.join(BASE_PATH, 'doc/{}.md'.format(i["name"]))
-            # if not os.path.exists(mdfile):
-            #     with open(mdfile, 'w') as f:
-            #         pass
+            mdfile = os.path.join(BASE_PATH, 'docs/uml/{}.drawio.svg'.format(i["name"]))
+            if not os.path.exists(mdfile):
+                with open(mdfile, 'w') as f:
+                    pass
         make_subdir(i)
         if i["name"]:
             os.chdir("..")
@@ -90,4 +90,5 @@ def file_generator():
 
 if __name__ == "__main__":
     main()
+
 # make_subdir(FOLDER_STRUCTURE)

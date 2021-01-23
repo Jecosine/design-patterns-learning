@@ -1,0 +1,62 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="402px" height="146px" viewBox="-0.5 -0.5 402 146" content="&lt;mxfile host=&quot;1ac47526-4fc3-4f52-a592-191edac01ae2&quot; modified=&quot;2021-01-23T20:40:39.596Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.52.1 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36&quot; version=&quot;13.10.0&quot; etag=&quot;oQ99m3cfHzvn7eCVBFrU&quot; type=&quot;embed&quot;&gt;&lt;diagram id=&quot;SYZdIvepkG9J99y4-hiJ&quot; name=&quot;Page-1&quot;&gt;7VhNb9swDP01BrbLENtx2h2bj26HFCjWAduOis3YWmXRkJkm6a8fZUtxPrcBRZNLkiAwnyiJ4iOfDQfxqFx9MaIqHjADFUS9bBXE4yCKbvoR/1tg3QKDKG6B3MishXod8CRfoQVDjy5kBrXDWogQFclqF0xRa0hpBxPG4HLXbY4q2wEqkcMB8JQKdYj+kBkVLXqb9Dr8K8i88DuHPTcyE+lzbnCh3X5BFM+bTztcCr+W868LkeFyC4onQTwyiNRelasRKJva3bTdnxjdxG1A039NcES9CLUAH3ITGK19MiDj3DgTDRWYoxZq0qHD5sBgl+yx1flMESsGQwZ/A9HaES0WhAwVVCo3Cjq7s7SxOVOYPn8vpG7he6mUW7cmg88wQoWmCSyOJvbLI3PUdAxvj2LjP5keB9W4MOleEZIwOTi3wYYbLnnAEsis2cWAEiRfdpcXrvjyjV9HAF84Do7zMTigY2RAEJ9sn5V6KUslNLjje4JsotJCqmwq1riw0dfENemtYYFGvrK/8KnnYUOOGN6eV+OM+2RqbDboJj3Zxdw2Bmqe9uiTGe5BD2K14zgVNfkAUSlR1XLWhGwnlpxrqYdIhOUb6X4BQ7D6O+GHTLoJiSffCVc8cPayk4HQY8WWBCTR28m/OdKLQytfIuUKWD8A91X24WMQ3zH4aDBbsPTt1wWfnY6zKJTMuavGCubWw+ZJsuTdOZhsrw7rSqRS59PGZ9zvkG/urBZCnjtXTbsWMstANxpAgsRsU4QVSk1NMpIh/zhlo96nJEg4xhHbYWfzz7ob5lQz6UI2VAGXyxJsybxXJZzoace8b8V/Ee/93kL85m5wZtHlMH9uG7/sYkyKM8e+gVtrvbE2Yo0VHOp0JuqiiSu8sGiHt2dSbb/5tmyjTg0QXOX7kvLdT84o32F41e9z6nfYO14LFxDw8PP1MfpAkW+PKHJyLkVODgg51XBXJX4PJY5uLvgg7UvvyP34WgWXrIL3vB+z2b03aca23k3Fkz8=&lt;/diagram&gt;&lt;/mxfile&gt;" style="background-color: rgb(255, 255, 255);">
+    <defs>
+        <clipPath id="mx-clip-244-31-152-26-0">
+            <rect x="244" y="31" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-244-121-152-26-0">
+            <rect x="244" y="121" width="152" height="26"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 320 90 L 320 70.03 L 320 72.03 L 320 60.12" fill="none" stroke="#2e2e2e" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 320 53.12 L 322.33 60.12 L 317.67 60.12 Z" fill="none" stroke="#2e2e2e" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 240 26 L 240 0 L 400 0 L 400 26" fill="none" stroke="#2e2e2e" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 240 26 L 240 52 L 400 52 L 400 26" fill="none" stroke="#2e2e2e" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 240 26 L 400 26" fill="none" stroke="#2e2e2e" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#2E2E2E" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="319.5" y="17.5">
+                Creator
+            </text>
+        </g>
+        <rect x="240" y="26" width="160" height="26" fill="none" stroke="#2e2e2e" pointer-events="none"/>
+        <g fill="#2E2E2E" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-244-31-152-26-0)" font-size="12px">
+            <text x="245.5" y="43.5">
+                + factoryMethod(): Product
+            </text>
+        </g>
+        <path d="M 240 116 L 162.24 116" fill="none" stroke="#2e2e2e" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 168.12 112.5 L 161.12 116 L 168.12 119.5" fill="none" stroke="#2e2e2e" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 240 116 L 240 90 L 400 90 L 400 116" fill="none" stroke="#2e2e2e" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 240 116 L 240 142 L 400 142 L 400 116" fill="none" stroke="#2e2e2e" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 240 116 L 400 116" fill="none" stroke="#2e2e2e" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#2E2E2E" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="319.5" y="107.5">
+                ConcreteCreator
+            </text>
+        </g>
+        <rect x="240" y="116" width="160" height="26" fill="none" stroke="#2e2e2e" pointer-events="none"/>
+        <g fill="#2E2E2E" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-244-121-152-26-0)" font-size="12px">
+            <text x="245.5" y="133.5">
+                + factoryMethod(): Product
+            </text>
+        </g>
+        <path d="M 80 90 L 80 70.03 L 80 72.03 L 80 60.12" fill="none" stroke="#2e2e2e" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 80 53.12 L 82.33 60.12 L 77.67 60.12 Z" fill="none" stroke="#2e2e2e" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 26 L 0 0 L 160 0 L 160 26" fill="none" stroke="#2e2e2e" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 26 L 0 52 L 160 52 L 160 26" fill="none" stroke="#2e2e2e" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 26 L 160 26" fill="none" stroke="#2e2e2e" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#2E2E2E" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="79.5" y="17.5">
+                Product
+            </text>
+        </g>
+        <path d="M 0 116 L 0 90 L 160 90 L 160 116" fill="none" stroke="#2e2e2e" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 116 L 0 142 L 160 142 L 160 116" fill="none" stroke="#2e2e2e" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 116 L 160 116" fill="none" stroke="#2e2e2e" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#2E2E2E" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="79.5" y="107.5">
+                ConcreteProduct
+            </text>
+        </g>
+    </g>
+</svg>
