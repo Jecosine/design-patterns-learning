@@ -33,11 +33,15 @@
 - Known Uses
 - Related Patterns
 
-### Overview
+###  Overview
 
 ![image-20210122113106934](img\image-20210122113106934.png)
 
 > 引用自 *Design Patterns Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides*
+
+Relationship of Patterns
+
+![image-20210123044942994](E:\Programs\design-patterns-learning\docs\img\image-20210123044942994.png)
 
 ### Catalog
 
