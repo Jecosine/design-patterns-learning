@@ -1,7 +1,7 @@
 <!--
  * @Author: Jecosine
  * @Date: 2021-01-22 06:39:48
- * @LastEditTime: 2021-01-22 12:05:10
+ * @LastEditTime: 2021-01-23 23:18:21
  * @LastEditors: Jecosine
  * @Description: index
 -->
@@ -33,7 +33,7 @@
 - Known Uses
 - Related Patterns
 
-###  Overview
+### Overview
 
 ![image-20210122113106934](img\image-20210122113106934.png)
 
@@ -41,7 +41,7 @@
 
 Relationship of Patterns
 
-![image-20210123044942994](E:\Programs\design-patterns-learning\docs\img\image-20210123044942994.png)
+![image-20210123044942994](img\image-20210123044942994.png)
 
 ### Catalog
 
@@ -70,3 +70,4 @@ Relationship of Patterns
   - [Strategy](./Strategy.md)
   - [Template Method](./TemplateMethod.md)
   - [Visitor](./Visitor.md)
+
