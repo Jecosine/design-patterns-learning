@@ -1,68 +1,85 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="251px" height="664px" viewBox="-0.5 -0.5 251 664" content="&lt;mxfile host=&quot;b22dc2c8-ff41-459e-ada8-83c807ddf307&quot; modified=&quot;2021-01-23T23:26:48.324Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.52.1 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36&quot; version=&quot;13.10.0&quot; etag=&quot;XkrIRszhpvzV4oRzpGaA&quot; type=&quot;embed&quot;&gt;&lt;diagram id=&quot;tmNmrSpTCL3N-vYfYXAC&quot; name=&quot;Page-1&quot;&gt;7VlZb9s4EP41BrIPWViS7caPPpJtARcN6gX2mZZoiQ0lain66q/fGR6WdThVnKYpFgaCQPw4HM7NId0LZun+L0ny5LOIKO/5/WjfC+Y937/zBvAfgYMBht7IALFkkYG8Eliy79SCfYtuWESLCqESgiuWV8FQZBkNVQUjUopdlWwteHXXnMS0ASxDwpvoPyxSiVVr2C/xj5TFidvZ69uZlDhiCxQJicTuBArue8FMCqHMV7qfUY62c3Yx6x7OzB4FkzRTnRYEZsWW8I1VzgqmDk5bGoHydiikSkQsMsLvS3QqxSaLKLLsw6ikWQiRA+gB+I0qdbCeJBslAEpUyu0szaIJ+gV3yGlmkAfGuWUZkSLR/JHYCIhSnVXaQoXYyNBSWb0UkTG1VOOjwSFQqUipkgcgkZQTxbZV7sSGTHykK60KH9aw7Ub2GzaerAolSai+5FQSJWTD5sWOpZxkaNy1yJQzP6pPOIvBQvMQtKUSgC2VikFwTuyEQqNPw4TxaEEOYoPaFoqET240TYRk34EtcfaHaamsd/xRhWKJK60bJC2A5tEZ2qtBn8m+QrgghbJAKDgnecFWRzVScATLpkIpkVoiayZQh+6fd23TaXbBB5tXtrAELs92ZZr6Lk2T0xQd98/72e72FUoJyWLQ4CXbeUHLdv6ouhvh4MqMKDrFTCoawXVUtFO8teU0GLfP6RbqcDBBUjAnChF4xvA4veICPX1uOhTozbOzG4k+Wj7ppEUq81mnKxBdMMdKf/kjjlHpFsRKU9el26zX7eumMFMuqyUShJLSAS7FE50JDrkWzDNhMgv2q0EuuThdq7OpVeQkZFm80DTzQYl8tR5GSMDaNdclLWFRpIuaFIooYnIANcsFmFKHwHAKfxAos/6fw94QBJ/B2CvH8IfkUs1EhqWD6XSgkGA7WqiuueO3586hGpQ/ypXx4PUlcfDjY4cz7RHjOXfMehe5LQUH6IPK+ulvfSzdeg1fBk1fBi1+42RF+aMomGIC+UtDW/PnL3CZ17W+3b3eZcMzVYXYswz7OZpzcbjRlgHDQBDrYvGHydmtAFb1tD5ZLUEiStRNR/JI6IJRJb9m/+WhdNctlEb+62Ppwzs3mfaoq3WZlzWWo2ZjecbSnRtLvRRkJYcTAhsuJedHoQ9i14t4w1oz4tVa/5fRw4eR4NIuZNRSL8yBnVdcP/p3g7cd2xCaZO7ne/ivXdI3+K1OPpwbnMxhft/arMU52xMfeZ50E3pndgKQFLOZN0efkMeagH8dXF1S4QhWYPVdVrKBOODTlBT0y+ob3kpLDqs6PWB5HUskms3dhZ2G3nllLzKzKX1HOzd5I21iXQEVjqjnZH47EYgy95KGGKfGn+ozaU0zzNV3FhivRHDN+h1EMbZb5hSraSdZfqPYi8REi19rE1p9L2lIod7OSUpierNUEk5p05VojVs4VJWvnVHt/UCtaTg5+df6aDEXeGM7z7fjB5IyjoX3I+VbilyrZ9XPvwq3tope21V49MxVuOsBP24U/+tTx9s+dQzHHa8C/6unDhfA17eO622nmjxnHnff4a3D81pi9PrY8WKf/crHDq/5Zu/ayRc/cXR517g+ZvzkUHm7xwwYlr/PmSOr/JEzuP8P&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="692px" height="944px" viewBox="-0.5 -0.5 692 944" content="&lt;mxfile host=&quot;b22dc2c8-ff41-459e-ada8-83c807ddf307&quot; modified=&quot;2021-01-24T00:29:49.433Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.52.1 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36&quot; version=&quot;13.10.0&quot; etag=&quot;UQTlYPQ7TdqEPRKus1jX&quot; type=&quot;embed&quot; pages=&quot;2&quot;&gt;&lt;diagram id=&quot;tmNmrSpTCL3N-vYfYXAC&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;diagram id=&quot;ZMGqVx82U_YqZOkcjfMr&quot; name=&quot;Page-2&quot;&gt;7Zhbb5swFMc/TaTtoROXkLSPCWm3SanWrZW2PVUOnIAXw0HGNEk//Y7BhBB6X7P2IRKJ8N8H25zfuUj0XD9ZfZYsi88xBNFzrHDVcyc9xxnYHv1rYV0Jnj2ohEjysJLsRrjkt2BEy6gFDyFvGSpEoXjWFgNMUwhUS2NS4rJtNkfR3jVjEXSEy4CJrvqThyqu1GPPavQvwKO43tm2zEzCamMj5DELcbkluac915eIqrpLVj4I7bvaL6ti4l7L8Pf1ybI4X/8a5uH37Kha7Ow5j2xeQUKqXnlps/YNE4VxmHlZta49CCE51AxRqhgjTJk4bdSxxCINQe9j0aixmSJmJNok/gGl1iY6WKGQpFglwsxCGo40axrOBAaLSjrjQpg1q0Ppk+xQfcQlxi7HQgbwgN3QRCaTETy0nrPhTvkCmICSa3pOgmCK37QPx0zkRhu7hg7dGEDPgOV0WI1muZIsUGf0Q7PDNrp8yRPBUs1ojqmqKWqXM8GjlO4DciBIEm5AKk55MzITSrMbBzEX4ZStsdBuyRULFvVoHKPkt7QsqzHStFQGsjNoWVzqJw1MCTnZXNTs7B3pnK1ahlOWKyMEKATLcj7bvEZCxHg6RqUwacWKfh1YvSBaunTNKm5dCEwldPpmvGzqilNXj3irphwP9hQQ7h3JO9ZFkoOukiMd0esMOmFBjlElLokL8FEg8Z+kWMUJJd2OVIeKgLm6N1DyjAU8jaalzaTfKD+MI7SE9OxclHke8zCEtCweiilWEdX4MuSpKj3ljekif/rWJ6/n0cF9GtvNmC5tLpWPqc4DXsIFCpcl6JD5h0i4J89r8oOngXf2Bb7/eNUWvGRXMa47n/0iwAmhKuu8IXpVVvUju0Pd7VJ37yAs2AzEBeZccdTry8p2h/xbwfWcJ2b1nth69yR1whbwlVzB0gA++ILlec8ZCO2JK7qJKpdYwccq768OSf/KcTF4YrXfW9IPO4HxLQPJqPEf2v9/aP8b2CYe+tZbt//jQ/vfUyUYvu/2f3Jo/3uD+9btv/5ucuj/7yzr99j/adh8Rirntr7Fuad/AQ==&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs>
-        <clipPath id="mx-clip-4-231-242-94-0">
-            <rect x="4" y="231" width="242" height="94"/>
+        <clipPath id="mx-clip-4-491-242-94-0">
+            <rect x="4" y="491" width="242" height="94"/>
         </clipPath>
-        <clipPath id="mx-clip-4-333-242-62-0">
-            <rect x="4" y="333" width="242" height="62"/>
+        <clipPath id="mx-clip-4-593-242-62-0">
+            <rect x="4" y="593" width="242" height="62"/>
         </clipPath>
-        <clipPath id="mx-clip-4-501-242-94-0">
-            <rect x="4" y="501" width="242" height="94"/>
+        <clipPath id="mx-clip-4-761-242-114-0">
+            <rect x="4" y="761" width="242" height="114"/>
         </clipPath>
-        <clipPath id="mx-clip-4-603-242-62-0">
-            <rect x="4" y="603" width="242" height="62"/>
+        <clipPath id="mx-clip-4-883-242-62-0">
+            <rect x="4" y="883" width="242" height="62"/>
+        </clipPath>
+        <clipPath id="mx-clip-334-491-242-94-0">
+            <rect x="334" y="491" width="242" height="94"/>
+        </clipPath>
+        <clipPath id="mx-clip-334-593-242-62-0">
+            <rect x="334" y="593" width="242" height="62"/>
+        </clipPath>
+        <clipPath id="mx-clip-334-761-242-84-0">
+            <rect x="334" y="761" width="242" height="84"/>
+        </clipPath>
+        <clipPath id="mx-clip-334-853-242-72-0">
+            <rect x="334" y="853" width="242" height="72"/>
         </clipPath>
     </defs>
     <g>
-        <path d="M 125 390 L 125 467.76" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
-        <path d="M 121.5 461.88 L 125 468.88 L 128.5 461.88" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
-        <path d="M 0 226 L 0 200 L 250 200 L 250 226" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
-        <path d="M 0 226 L 0 390 L 250 390 L 250 226" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
-        <path d="M 0 226 L 250 226" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 125 730 L 125 658.12" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 125 651.12 L 128.5 658.12 L 121.5 658.12 Z" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 486 L 0 460 L 250 460 L 250 486" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 486 L 0 650 L 250 650 L 250 486" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 486 L 250 486" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
         <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
-            <text x="124.5" y="217.5">
+            <text x="124.5" y="477.5">
                 AbstractOperator
             </text>
         </g>
-        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-231-242-94-0)" font-size="12px">
-            <text x="5.5" y="243.5">
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-491-242-94-0)" font-size="12px">
+            <text x="5.5" y="503.5">
+                + operatorType: String
+            </text>
+            <text x="5.5" y="517.5">
                 + level: int
             </text>
-            <text x="5.5" y="257.5">
+            <text x="5.5" y="531.5">
                 + block: int
             </text>
-            <text x="5.5" y="271.5">
+            <text x="5.5" y="545.5">
                 + cost: int
             </text>
-            <text x="5.5" y="285.5">
+            <text x="5.5" y="559.5">
                 + currentSkill: Skill
             </text>
-            <text x="5.5" y="299.5">
+            <text x="5.5" y="573.5">
                 + skillList: List&lt;Skill&gt;
             </text>
-            <text x="5.5" y="313.5">
+            <text x="5.5" y="587.5">
                 + buffList: List&lt;Buff&gt;
             </text>
         </g>
-        <path d="M 0 324 L 250 324" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
-        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-333-242-62-0)" font-size="12px">
-            <text x="5.5" y="345.5">
+        <path d="M 0 584 L 250 584" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-593-242-62-0)" font-size="12px">
+            <text x="5.5" y="605.5">
                 + abstract deploy(Positon, int): void
             </text>
-            <text x="5.5" y="359.5">
+            <text x="5.5" y="619.5">
                 + abstract retreat(): void
             </text>
-            <text x="5.5" y="373.5">
+            <text x="5.5" y="633.5">
                 + abstract doSkill(): void
             </text>
         </g>
-        <path d="M 80 160 L 80 190 L 80 191.88" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
-        <path d="M 80 198.88 L 76.5 191.88 L 83.5 191.88 Z" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
-        <rect x="0" y="0" width="210" height="160" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <path d="M 455 460 L 455 415 L 105 415 L 105 378.12" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 105 371.12 L 108.5 378.12 L 101.5 378.12 Z" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 105 460 L 105 378.12" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 105 371.12 L 108.5 378.12 L 101.5 378.12 Z" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="0" y="210" width="210" height="160" fill="#ffffff" stroke="#000000" pointer-events="none"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 212px; height: 160px; padding-top: 0px; margin-left: 0px;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 212px; height: 160px; padding-top: 210px; margin-left: 0px;">
                         <div style="box-sizing: border-box; font-size: 0; text-align: left; width: 212px; height: 160px; overflow: hidden; ">
                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; width: 100%; height: 100%; white-space: nowrap; ">
                                 <p style="margin: 0px ; margin-top: 4px ; text-align: center">
@@ -99,50 +116,166 @@
                         </div>
                     </div>
                 </foreignObject>
-                <text x="0" y="12" fill="#000000" font-family="Helvetica" font-size="12px">
+                <text x="0" y="222" fill="#000000" font-family="Helvetica" font-size="12px">
                     &lt;&lt;Interface&gt;&gt;...
                 </text>
             </switch>
         </g>
-        <path d="M 0 496 L 0 470 L 250 470 L 250 496" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
-        <path d="M 0 496 L 0 660 L 250 660 L 250 496" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
-        <path d="M 0 496 L 250 496" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 756 L 0 730 L 250 730 L 250 756" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 756 L 0 940 L 250 940 L 250 756" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 756 L 250 756" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
         <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
-            <text x="124.5" y="487.5">
+            <text x="124.5" y="747.5">
                 Operator
             </text>
         </g>
-        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-501-242-94-0)" font-size="12px">
-            <text x="5.5" y="513.5">
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-761-242-114-0)" font-size="12px">
+            <text x="5.5" y="773.5">
+                + operatorType: String
+            </text>
+            <text x="5.5" y="787.5">
                 + level: int
             </text>
-            <text x="5.5" y="527.5">
+            <text x="5.5" y="801.5">
                 + block: int
             </text>
-            <text x="5.5" y="541.5">
+            <text x="5.5" y="815.5">
                 + cost: int
             </text>
-            <text x="5.5" y="555.5">
+            <text x="5.5" y="829.5">
                 + currentSkill: Skill
             </text>
-            <text x="5.5" y="569.5">
+            <text x="5.5" y="843.5">
                 + skillList: List&lt;Skill&gt;
             </text>
-            <text x="5.5" y="583.5">
+            <text x="5.5" y="857.5">
                 + buffList: List&lt;Buff&gt;
             </text>
         </g>
-        <path d="M 0 594 L 250 594" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
-        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-603-242-62-0)" font-size="12px">
-            <text x="5.5" y="615.5">
+        <path d="M 0 874 L 250 874" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-883-242-62-0)" font-size="12px">
+            <text x="5.5" y="895.5">
                 + deploy(Positon, int): void
             </text>
-            <text x="5.5" y="629.5">
+            <text x="5.5" y="909.5">
                 + retreat(): void
             </text>
-            <text x="5.5" y="643.5">
+            <text x="5.5" y="923.5">
                 + doSkill(): void
             </text>
+        </g>
+        <path d="M 455 730 L 455 658.12" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 455 651.12 L 458.5 658.12 L 451.5 658.12 Z" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 330 486 L 330 460 L 580 460 L 580 486" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 330 486 L 330 650 L 580 650 L 580 486" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 330 486 L 580 486" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="454.5" y="477.5">
+                AbstractEnemy
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-334-491-242-94-0)" font-size="12px">
+            <text x="335.5" y="503.5">
+                + moveSpeed: float
+            </text>
+            <text x="335.5" y="517.5">
+                + block: int
+            </text>
+            <text x="335.5" y="531.5">
+                + cost: int
+            </text>
+            <text x="335.5" y="545.5">
+                + currentSkill: Skill
+            </text>
+            <text x="335.5" y="559.5">
+                + skillList: List&lt;Skill&gt;
+            </text>
+            <text x="335.5" y="573.5">
+                + buffList: List&lt;Buff&gt;
+            </text>
+        </g>
+        <path d="M 330 584 L 580 584" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-334-593-242-62-0)" font-size="12px">
+            <text x="335.5" y="605.5">
+                + abstract move(Positon, int): void
+            </text>
+            <text x="335.5" y="619.5">
+                + abstract AddProcess(Process): void
+            </text>
+            <text x="335.5" y="633.5">
+                + abstract retreat(): void
+            </text>
+            <text x="335.5" y="647.5">
+                + abstract doSkill(): void
+            </text>
+        </g>
+        <path d="M 330 756 L 330 730 L 580 730 L 580 756" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 330 756 L 330 920 L 580 920 L 580 756" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 330 756 L 580 756" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="454.5" y="747.5">
+                Enemy
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-334-761-242-84-0)" font-size="12px">
+            <text x="335.5" y="773.5">
+                + skillList: List&lt;Skill&gt;
+            </text>
+            <text x="335.5" y="787.5">
+                + buffList: List&lt;Buff&gt;
+            </text>
+        </g>
+        <path d="M 330 844 L 580 844" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-334-853-242-72-0)" font-size="12px">
+            <text x="335.5" y="865.5">
+                + move(Positon, int): void
+            </text>
+            <text x="335.5" y="879.5">
+                + AddProcess(Process): void
+            </text>
+            <text x="335.5" y="893.5">
+                + retreat(): void
+            </text>
+            <text x="335.5" y="907.5">
+                + doSkill(): void
+            </text>
+        </g>
+        <rect x="500" y="0" width="190" height="140" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 192px; height: 140px; padding-top: 0px; margin-left: 500px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; width: 192px; height: 140px; overflow: hidden; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; width: 100%; height: 100%; white-space: nowrap; ">
+                                <p style="margin: 0px ; margin-top: 4px ; text-align: center">
+                                    <i>
+                                        &lt;&lt;Interface&gt;&gt;
+                                    </i>
+                                    <br/>
+                                    <b>
+                                        IPlacableObject
+                                    </b>
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    + field1: Type
+                                    <br/>
+                                    + field2: Type
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    + method1(Type): Type
+                                    <br/>
+                                    + method2(Type, Type): Type
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="500" y="12" fill="#000000" font-family="Helvetica" font-size="12px">
+                    &lt;&lt;Interface&gt;&gt;...
+                </text>
+            </switch>
         </g>
     </g>
     <switch>
